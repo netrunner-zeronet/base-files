@@ -1,0 +1,10 @@
+PRETTY_NAME="Netrunner Core 1 (paria)"
+NAME="Netrunner Core"
+VERSION_ID="1"
+VERSION="1 (paria)"
+ID=netrunner
+ID_LIKE=debian
+HOME_URL="http://www.netrunner.com/"
+SUPPORT_URL="http://forum.netrunner-os.com/"
+BUG_REPORT_URL="https://github.com/netrunner/netrunner-feedback"
+VERSION_CODENAME=paria
