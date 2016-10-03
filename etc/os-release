@@ -8,3 +8,4 @@ HOME_URL="http://www.netrunner.com/"
 SUPPORT_URL="http://forum.netrunner-os.com/"
 BUG_REPORT_URL="https://github.com/netrunner/netrunner-feedback"
 VERSION_CODENAME=avalon
+PRETTY_NAME="Netrunner Core 16.09 \"Avalon\""
