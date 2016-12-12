@@ -1,6 +1,11 @@
-PRETTY_NAME="Debian #OSNAME# stretch/sid"
-NAME="Debian #OSNAME#"
-ID=debian
-HOME_URL="https://www.debian.org/"
-SUPPORT_URL="https://www.debian.org/support"
-BUG_REPORT_URL="https://bugs.debian.org/"
+PRETTY_NAME="Netrunner Core 17.01 (baryon)"
+NAME="Netrunner Core"
+VERSION_ID="17.01"
+VERSION="17.01 (baryon)"
+ID=netrunner
+ID_LIKE=debian
+HOME_URL="http://www.netrunner.com/"
+SUPPORT_URL="http://forum.netrunner-os.com/"
+BUG_REPORT_URL="https://github.com/netrunner/netrunner-feedback"
+VERSION_CODENAME=baryon
+PRETTY_NAME="Netrunner Core 17.01 \"Baryon\""
