@@ -1,3 +1,11 @@
+base-files (10) unstable; urgency=medium
+
+  * Change issue, issue.net, debian_version and os-release to read
+    "buster/sid", and drop VERSION and VERSION_ID from os-release.
+  * Fix typo in changelog for version 9.
+
+ -- Santiago Vila <sanvila@debian.org>  Mon, 26 Jun 2017 00:19:42 +0200
+
 base-files (9.9) unstable; urgency=medium
 
   * Add MPL-1.1 and MPL-2.0 to common-licenses. Closes: #849835.
@@ -93,7 +101,7 @@ base-files (9) unstable; urgency=medium
 
   * Changed issue, issue.net, debian_version and os-release to read
     "stretch/sid", and dropped VERSION and VERSION_ID from os-release.
-  * Changed HOME_URL and SUPPORT_URL is os-release from http to https,
+  * Changed HOME_URL and SUPPORT_URL in os-release from http to https,
     as those are the preferred URLs now.
 
  -- Santiago Vila <sanvila@debian.org>  Thu, 30 Apr 2015 12:00:50 +0200
