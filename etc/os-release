@@ -1,10 +1,10 @@
 NAME="Netrunner Core"
-VERSION_ID="17.10"
-VERSION="17.10 (eidolon)"
+VERSION_ID="18.03"
+VERSION="18.03 (eidolon)"
 ID=netrunner-core
 ID_LIKE=debian
 HOME_URL="http://www.netrunner.com/"
 SUPPORT_URL="http://forum.netrunner-os.com/"
 BUG_REPORT_URL="https://github.com/netrunner/netrunner-feedback"
 VERSION_CODENAME=eidolon
-PRETTY_NAME="Netrunner Core 17.10 - Eidolon"
+PRETTY_NAME="Netrunner Core 18.03 - Eidolon"
