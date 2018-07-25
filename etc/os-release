@@ -1,10 +1,10 @@
 NAME="Netrunner Core"
 VERSION_ID="18.08"
-VERSION="18.08 (idolon)"
+VERSION="18.08"
 ID=netrunner-core
 ID_LIKE=debian
 HOME_URL="http://www.netrunner.com/"
 SUPPORT_URL="http://forum.netrunner-os.com/"
 BUG_REPORT_URL="https://github.com/netrunner/netrunner-feedback"
-VERSION_CODENAME=idolon
-PRETTY_NAME="Netrunner Core 18.08 - Idolon"
+VERSION_CODENAME=stretch
+PRETTY_NAME="Netrunner Core 18.08"
