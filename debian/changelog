@@ -1,3 +1,9 @@
+base-files (10.3) buster; urgency=medium
+
+  * Bump version
+
+ -- Leszek Lesner <leszek@zevenos.com>  Thu, 25 Jul 2019 17:05:35 +0200
+
 base-files (10.1) unstable; urgency=medium
 
   * Add CC0-1.0 to common-licenses. Closes: #859649, #882628.
