@@ -1,10 +1,10 @@
-NAME="Netrunner Core"
+NAME="Zerobox OS"
 VERSION_ID="19.08"
 VERSION="19.08"
-ID=netrunner-core
+ID=zerobox-os
 ID_LIKE=debian
 HOME_URL="http://www.netrunner.com/"
 SUPPORT_URL="http://forum.netrunner-os.com/"
 BUG_REPORT_URL="https://github.com/netrunner/netrunner-feedback"
 VERSION_CODENAME=buster
-PRETTY_NAME="Netrunner Core 19.08"
+PRETTY_NAME="Zerobox OS 19.08"
